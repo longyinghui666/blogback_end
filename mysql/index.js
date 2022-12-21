@@ -7,5 +7,5 @@ user: 'root',
 password: 'admin123',
 database: 'nnd',
 })
-// 向外共享 db 数据库连接对象
+// 向外共享数据库连接对象
 module.exports = nnd
